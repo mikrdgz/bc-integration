@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "type": "divider",
+            "title": "Getting Started",
+            "uri": "#"
+        },
+        {
+            "type": "divider",
+            "title": "Reference",
+            "uri": "docs/api-overview.md"
+        },
+        {
+            "type": "divider",
+            "title": "Guides",
+            "uri": "docs/api-overview.md"
+        },
+        {
+            "type": "group",
+            "title": "Storefront",
+            "items": [
+                {
+                    "type": "item",
+                    "title": "Embed subscription widget on a page",
+                    "uri": "#"
+                }
+            ]
+        }
+    ]
+}
